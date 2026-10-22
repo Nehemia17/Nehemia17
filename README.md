@@ -1,19 +1,20 @@
-<!-- Header banner -->
+<!-- Header banner (white → grey, animated fade-in) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,100:f97316&height=200&section=header&text=Nehemia%20Dheadema%20Mareten&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Creative%20Technologist%20%E2%80%A2%20Frontend%20Developer&descAlignY=58&descSize=16" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:6e6e6e&height=210&section=header&text=Nehemia%20Dheadema%20Mareten&fontSize=38&fontColor=0d1117&fontAlignY=36&desc=Creative%20Technologist%20%E2%80%A2%20Frontend%20Developer&descAlignY=56&descSize=16&animation=fadeIn" alt="header" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://portofolio-nehemia.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Digital+Forensics+Student+%40+UBSI+Pontianak;Building+interfaces+that+feel+alive+%E2%9C%A8" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Digital+Forensics+Student+%40+UBSI+Pontianak;Building+interfaces+that+feel+alive" alt="typing" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://portofolio-nehemia.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-f97316?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117&color=ffffff" alt="portfolio" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Nehemia17&style=for-the-badge&color=grey&label=PROFILE+VIEWS" alt="views" />
 </p>
 
 ---
@@ -32,7 +33,7 @@ Saya **Nehemia**, seorang **Creative Technologist** dan mahasiswa **Digital Fore
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,php,mysql,python,figma,kali&perline=6" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,php,mysql,python,figma,kali&perline=6&theme=dark" alt="tech stack" />
 </p>
 
 ---
@@ -49,18 +50,34 @@ Saya **Nehemia**, seorang **Creative Technologist** dan mahasiswa **Digital Fore
 
 ---
 
+## 🧊 3D Contribution
+
+<!-- Dibuat otomatis oleh workflow .github/workflows/profile-3d.yml -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-customize.svg" alt="3D contribution" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nehemia17&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=f97316&icon_color=ef4444&text_color=e5e5e5&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehemia17&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=f97316&text_color=e5e5e5" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nehemia17&show_icons=true&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehemia17&layout=compact&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nehemia17&hide_border=true&background=0d0d0d&ring=f97316&fire=ef4444&currStreakLabel=f97316&sideLabels=e5e5e5&currStreakNum=ffffff&sideNums=ffffff&dates=a3a3a3" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nehemia17&background=0d1117&border=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" alt="streak" />
+</p>
+
+---
+
+<!-- Snake animation, dibuat otomatis oleh workflow .github/workflows/snake.yml -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nehemia17/Nehemia17/output/github-snake-mono.svg" alt="snake animation" />
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:ef4444&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e6e6e,100:ffffff&height=110&section=footer&animation=fadeIn" alt="footer" />
 </p>
