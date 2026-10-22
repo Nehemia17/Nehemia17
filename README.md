@@ -14,7 +14,6 @@
   <a href="https://portofolio-nehemia.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117&color=ffffff" alt="portfolio" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Nehemia17&style=for-the-badge&color=grey&label=PROFILE+VIEWS" alt="views" />
 </p>
 
 ---
