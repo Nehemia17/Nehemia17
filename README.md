@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-Saya **Nehemia**, seorang **Creative Technologist** dan mahasiswa **Digital Forensics** di UBSI Pontianak. Fokus utama saya ada di **Front-End Development**, yaitu menggabungkan presisi teknis dengan kreativitas visual untuk membangun antarmuka digital yang terasa "hidup".
+Saya **Nehemia**, seorang **Creative Technologist**. Fokus utama saya ada di **Front-End Development**, yaitu menggabungkan presisi teknis dengan kreativitas visual untuk membangun antarmuka digital yang terasa "hidup".
 
 - 🎨 Frontend Developer & UI/UX Designer
 - 🔐 Mahasiswa Digital Forensics, UBSI Pontianak
