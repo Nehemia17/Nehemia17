@@ -23,7 +23,6 @@
 Saya **Nehemia**, seorang **Creative Technologist**. Fokus utama saya ada di **Front-End Development**, yaitu menggabungkan presisi teknis dengan kreativitas visual untuk membangun antarmuka digital yang terasa "hidup".
 
 - 🎨 Frontend Developer & UI/UX Designer
-- 🔐 Mahasiswa Digital Forensics, UBSI Pontianak
 - 🌱 Proyek yang pernah saya kerjakan: sistem monitoring **Agrosense AIoT**, aplikasi fitness interaktif, dan prediksi penyakit jantung berbasis ML
 - 🤖 *"Leveraging AI as a professional tool, not a replacement."*
 
