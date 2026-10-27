@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://portofolio-nehemia.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Digital+Forensics+Student+%40+UBSI+Pontianak;Building+interfaces+that+feel+alive" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Building+interfaces+that+feel+alive" alt="typing" />
   </a>
 </p>
 
